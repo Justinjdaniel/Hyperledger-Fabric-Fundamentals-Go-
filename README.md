@@ -5,7 +5,8 @@ This is a documentation of HLF in Go
 > [!NOTE]  
 > Below are the content of learning `Hyperledger Fabric Fundamentals(Go)`.
 
-[Overview](./overview.md)
+1. [Overview.](./overview.md)
+2. [Refresh memory of the Hyperledger Fabric Knowledge Base.](./refresh-memory.md)
 
 <!-- 
 > [!NOTE]  
