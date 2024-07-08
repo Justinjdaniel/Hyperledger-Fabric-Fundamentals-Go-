@@ -1,4 +1,4 @@
-# Refresh Memory 
+# Hyperledger Fabric Knowledge Base Refresh
 
 This document provides an overview of the key concepts and components of Hyperledger Fabric, a popular open-source blockchain framework. It is designed to help refresh your understanding of Fabric's architecture, core features, and terminology
 
